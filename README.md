@@ -11,9 +11,11 @@ Captura del comando `git status` después de inicializar el repositorio:
 Aquí está la captura tras crear el archivo `1.txt` y la etiqueta `v0.1`:
 ![GitHub 2: ](capturas/2.png)
 
-NOMBRE        GITHUB
-ismael        Astivero-x3d
-sergio        Sergiws
-raul          raul1641
+| NOMBRE                 | GITHUB                |
+|------------------------|-----------------------|
+| ismael | [https://github.com/Astivero-x3d](#) |
+| sergio | [https://github.com/Sergiws](#) |
+| fran | [https://github.com/Fran1792](#) |
+
 
 
